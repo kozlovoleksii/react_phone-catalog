@@ -2718,13 +2718,13 @@
   {
     "id": 195,
     "category": "phones",
-    "itemId": "apple-iphone-16-pro-max-256gb-black-titanium",
+    "itemId": "apple-iphone-16-pro-max-256gb-blacktitanium",
     "name": "Apple iPhone 16 Pro Max 256GB Black Titanium",
     "fullPrice": 1840,
     "price": 1720,
     "screen": "6.9' OLED",
     "capacity": "256GB",
-    "color": "blacktitanium",
+    "color": "black-titanium",
     "ram": "8GB",
     "year": 2024,
     "image": "img/phones/apple-iphone-16-pro-max/black-titanium/00.webp"
