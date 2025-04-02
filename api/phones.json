@@ -5920,8 +5920,8 @@
     "resolution": "2796x1290",
     "processor": "Apple A18 Pro",
     "ram": "8GB",
-    "camera": "48 MP (Main) + 12 MP (Ultra Wide) + 12 MP (Telephoto) + LiDAR",
-    "zoom": "Digital up to 15x, Optical up to 6x",
-    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE", "5G", "5G Ultra Wideband"]
+    "camera": "48 MP + 12 MP (Ultra Wide) + 12 MP (Telephoto)",
+    "zoom": "Digital 15x, Optical 6x",
+    "cell": ["GPRS", "EDGE", "LTE", "5G", "5G Ultra Wideband"]
   }
 ]
